@@ -1,0 +1,26 @@
+[
+  {
+    "map": "bhop_easy",
+    "player": "Cristobal",
+    "time": "00:34.12",
+    "date": "2025-09-10",
+    "steamid": "STEAM_0:1:123",
+    "rank": 1
+  },
+  {
+    "map": "kzarg_temple",
+    "player": "Ana",
+    "time": "01:12.55",
+    "date": "2025-09-11",
+    "steamid": "STEAM_0:1:456",
+    "rank": 1
+  },
+  {
+    "map": "hb_castle",
+    "player": "Nico",
+    "time": "00:55.30",
+    "date": "2025-09-12",
+    "steamid": "STEAM_0:1:789",
+    "rank": 1
+  }
+]
